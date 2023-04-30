@@ -2,4 +2,4 @@ pyrogram==1.4.16
 python-arq
 TgCrypto
 aiohttp==3.7.4
-arq
+python-arq
